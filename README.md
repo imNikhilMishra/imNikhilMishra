@@ -4,7 +4,7 @@
 ---
 
 ### 🧠 About Me  
-- 💼 Full-time **Data Scientist at Spike AI**  
+- 💼 Full-time **AI Engineer (Data Scientist) at Spike AI**  
 - 🎓 **Graduate from IIT Kharagpur**   
 - 🇨🇦 Selected as a **MITACS Globalink Research Intern**, worked in-person in *Canada* on **Computer Vision in the field of Biomedical Image Processing**  
 - 🤖 Exploring how **AI can solve impactful real-world problems**, especially at scale  
